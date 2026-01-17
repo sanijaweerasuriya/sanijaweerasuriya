@@ -1,6 +1,6 @@
 ## Hi there, I'm Sanija Weerasuriya 👋
 
-ABOUT ME
+#ABOUT ME
 
 - 🔭 I’m currently learning on software development...
 - 🌱 I’m currently an undergraduate at Java Institute For Advanced Technology
